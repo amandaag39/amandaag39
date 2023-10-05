@@ -1,6 +1,5 @@
-### Hi there 👋, my name is Amanda
-#### I am a Software Quality Assurance Engineer
 ![I am a Software Quality Assurance Engineer](https://github.com/amandaag39/amandaag39/blob/main/image%20(3).png)
+
 About a year ago I took a leap of faith and decided to put everything into a career transition. Before that I was teaching English in Japanese public high schools. I absolutely loved teaching and the creativity it allowed me, but there was a cap to how much I would ever make as an ALT. I learned about QA Engineering from my sister who had transitioned into the industry successfully after working as a server in Chicago's restaurant industry. She encouraged me to transition and I haven't looked back since. For the last year I've been putting my best efforts into internship experiences, online classes, projects, and whatever I can get my hands on. I've found the same ability to exercise creativity, as well as apply my eye for troubleshooting and refining--something I used a lot in both my teaching and music backgrounds--in my journey into QA Engineering. I am really looking forward to my first opportunity in the industry and am stoked to contribute to a team.
 
 Skills: JAVA / SELENIUM / MAVEN, GRADLE / XML, JSON / API, WEB, MOBILE
