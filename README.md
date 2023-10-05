@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Amanda 😊
-#### I am a Software QA Engineer
+#### I am a Software QA Engineer and Chicago native 🌆
 
 ![I am a Software Quality Assurance Engineer](https://github.com/amandaag39/amandaag39/blob/main/revisedbannerimage.png)
 
