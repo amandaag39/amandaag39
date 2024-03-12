@@ -1,20 +1,19 @@
 ### Hi there 👋, my name is Amanda 😊
-#### I am a Software QA Engineer and Chicago native 🌆
+#### I am a Software Developer | Test Automation Engineer and Chicago native 🌆
 
-![I am a Software Quality Assurance Engineer](https://github.com/amandaag39/amandaag39/blob/main/revisedbannerimage.png)
+![I am a Software Developer | Test Automation Engineer](https://github.com/amandaag39/amandaag39/blob/main/revisedbannerimage.png)
 
-About a year ago I took a leap of faith and decided to put everything into a career transition and moved back to the US from Japan. Before that I was teaching English in Japanese public high schools. I absolutely loved teaching and the creativity it allowed me, but there was a cap to how much I would ever make as an ALT. I learned about QA Engineering from my sister who had transitioned into the industry successfully after working as a server in Chicago's restaurant industry. She encouraged me to transition and I haven't looked back since. For the last year I've been putting my best efforts into internship experiences, online classes, projects, and whatever I can get my hands on. I've found the same ability to exercise creativity, as well as apply my eye for troubleshooting and refining--something I used a lot in both my teaching and music backgrounds--in my journey into QA Engineering. I am really looking forward to my first opportunity in the industry and am stoked to contribute to a team.
-
-
-
-Skills: JAVA / SELENIUM / MAVEN, GRADLE / XML, JSON / API, WEB, MOBILE
+I'm Amanda Mendez, a programmer with a keen interest in software quality assurance and test automation, primarily using Java and Selenium, gained through self-study and internships. Before my foray into tech, I enriched my life and skills by teaching English in Japan for three years and running a cello lesson studio. Now, as an apprentice at the Discovery Partners Institute, I'm deepening my software development knowledge with Ruby on Rails, driven by a passion for diversity in tech and a desire to contribute to Chicago's tech scene. With a background in teaching, a rapid skill acquisition capability, and diverse cultural experiences, I am looking for a Software Development and Testing role where I can bring my unique perspective and dedication to innovation and diversity to a forward-thinking team.
 
 
+Skills: RUBY / RAILS / JAVA / SELENIUM / MAVEN, GRADLE / XML, JSON / API, WEB, MOBILE
 
-- 🔭 I’m currently working on landing my first non-internship position as a QA Engineer 
-- 🌱 I’m currently learning more about Java and API testing 
-- 👯 I’m looking to collaborate on Anything! Always excited to learn :) 
-- 🤔 I’m looking for help with Job hunting 
+
+
+- 🔭 I’m currently working as a Software Development Apprentice
+- 🌱 I’m currently learning about Rails, Authorizations with Pundit
+- 👯 I’m looking to collaborate on anything, especially to hone my skills with Ruby on Rails.
+- 🤔 I’m looking for help with leveling up my skills.
 - 📫 How to reach me: mendez.amanda739@gmail.com 
 
 
