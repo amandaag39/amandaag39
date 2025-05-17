@@ -3,17 +3,16 @@
 
 ![I am a Software Developer | Test Automation Engineer](https://github.com/amandaag39/amandaag39/blob/main/revisedbannerimage.png)
 
-I'm Amanda Mendez, a programmer with a keen interest in software quality assurance and test automation, primarily using Java and Selenium, gained through self-study and internships. Before my foray into tech, I enriched my life and skills by teaching English in Japan for three years and running a cello lesson studio. Now, as an apprentice at the Discovery Partners Institute, I'm deepening my software development knowledge with Ruby on Rails, driven by a passion for diversity in tech and a desire to contribute to Chicago's tech scene. With a background in teaching, a rapid skill acquisition capability, and diverse cultural experiences, I am looking for a Software Development and Testing role where I can bring my unique perspective and dedication to innovation and diversity to a forward-thinking team.
+I'm Amanda Mendez, a recent career transitioner into tech in this crazy job market. I started by focusing on QA/Test Automation with Java/Selenium and, by following opportunities, ended up in developement and have worked in Ruby, JavaScript, and TypeScript as a developer. Before my foray into tech, I was a freelance musician, teaching cello lessons for over 6 years, and eventually leaving it behind to teach English in Japan for a few years. After gaining a bit of sink or swim experience as a Web Developer at a small agency in downtown Chicago, and sadly being recently laid off, I'm now starting as a Technical Associate at Discovery Partners Institute, a program of which I'm a proud graduate! Looking forward to getting more hands on Ruby skills and helping guide others in the as they learn the joys of programming.
+
+Skills: JAVASCRIPT / TYPESCRIPT / RUBY / RAILS / JAVA / SELENIUM / MAVEN, GRADLE / XML, JSON / API, WEB, MOBILE
 
 
-Skills: RUBY / RAILS / JAVA / SELENIUM / MAVEN, GRADLE / XML, JSON / API, WEB, MOBILE
 
-
-
-- 🔭 I’m currently working as a Software Development Apprentice
-- 🌱 I’m currently learning about Rails, Authorizations with Pundit
-- 👯 I’m looking to collaborate on anything, especially to hone my skills with Ruby on Rails.
-- 🤔 I’m looking for help with leveling up my skills.
+- 🔭 I’m currently working as a Software Development Technical Associate
+- 🌱 I’m currently working with about Ruby/Rails
+- 👯 I’m looking to collaborate on anything, especially to hone my skills in development in general!
+- 🤔 I’m always looking for help with leveling up my skills.
 - 📫 How to reach me: mendez.amanda739@gmail.com 
 
 
